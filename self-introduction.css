@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+
+h3{
+    border: solid 1px gray;
+    background-color: white; 
+}
+table, th, td{
+    border: dashed 1px gray;
+    background-color: white;
+}
+
+ul, li{
+    border: dashed 1px gray;
+    background-color: white;
+}
